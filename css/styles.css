@@ -180,7 +180,7 @@ background-color: white;
 }
 
 .experiencia img{
-    width: 100%;
+    flex-grow: 1;
 }
 
 .item{
